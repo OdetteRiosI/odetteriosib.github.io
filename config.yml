@@ -34,7 +34,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["About me","CV","Publications"]
+    MainSections: ["About me","CV","Papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,8 +54,8 @@ params:
               url: About me/
             - name: CV
               url: CV/
-            - name: Publications
-              url: Publications/    
+            - name: Papers
+              url: Papers/    
     socialIcons:
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
