@@ -1,34 +1,25 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
+title: "MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer: Development of a Machine Learning Model Based on Radiomic Features" 
+date: 28 August 2023
 lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["Prostate cancer","Radiomics","bpMRI","Machine learning"]
+author: ["Ignacio Dominguez†", "Odette Rios-Ibacache†", "Paola Caprile", "Jose Gonzales","Ignacio F. San Francisco","Cecilia Besa"]
 cover:
     image: "paper1.png"
     alt: "Some Uses For Olive Oil"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "Mdpi Diagnostics"
 
 ---
 
 ---
-
-##### Download
-
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
 
 ---
 
 ##### Abstract
-
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This study aimed to develop a noninvasive Machine Learning (ML) model to identify clinically significant prostate cancer (csPCa) according to Gleason Score (GS) based on biparametric MRI (bpMRI) radiomic features and clinical information. Methods: This retrospective study included 86 adult Hispanic men (60 ± 8.2 years, median prostate-specific antigen density (PSA-D) 0.15 ng/mL2) with PCa who underwent prebiopsy 3T MRI followed by targeted MRI–ultrasound fusion and systematic biopsy. Two observers performed 2D segmentation of lesions in T2WI/ADC images. We classified csPCa (GS ≥ 7) vs. non-csPCa (GS = 6). Univariate statistical tests were performed for different parameters, including prostate volume (PV), PSA-D, PI-RADS, and radiomic features. Multivariate models were built using the automatic feature selection algorithm Recursive Feature Elimination (RFE) and different classifiers. A stratified split separated the train/test (80%) and validation (20%) sets. Results: Radiomic features derived from T2WI/ADC are associated with GS in patients with PCa. The best model found was multivariate, including image (T2WI/ADC) and clinical (PV and PSA-D) information. The validation area under the curve (AUC) was 0.80 for differentiating csPCa from non-csPCa, exhibiting better performance than PI-RADS (AUC: 0.71) and PSA-D (AUC: 0.78). Conclusion: Our multivariate ML model outperforms PI-RADS v2.1 and established clinical indicators like PSA-D in classifying csPCa accurately. This underscores MRI-derived radiomics’ (T2WI/ADC) potential as a robust biomarker for assessing PCa aggressiveness in Hispanic patients.
 
 ---
 
@@ -40,18 +31,23 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Dominguez, I., Rios-Ibacache, O., Caprile, P., Gonzalez, J., San Francisco, I. F., & Besa, C. (2023). MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer: Development of a Machine Learning Model Based on Radiomic Features. Diagnostics, 13(17), 2779. https://doi.org/10.3390/diagnostics13172779
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@Article{diagnostics13172779,
+AUTHOR = {Dominguez, Ignacio and Rios-Ibacache, Odette and Caprile, Paola and Gonzalez, Jose and San Francisco, Ignacio F. and Besa, Cecilia},
+TITLE = {MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer: Development of a Machine Learning Model Based on Radiomic Features},
+JOURNAL = {Diagnostics},
+VOLUME = {13},
+YEAR = {2023},
+NUMBER = {17},
+ARTICLE-NUMBER = {2779},
+URL = {https://www.mdpi.com/2075-4418/13/17/2779},
+PubMedID = {37685317},
+ISSN = {2075-4418},
+ABSTRACT = {This study aimed to develop a noninvasive Machine Learning (ML) model to identify clinically significant prostate cancer (csPCa) according to Gleason Score (GS) based on biparametric MRI (bpMRI) radiomic features and clinical information. Methods: This retrospective study included 86 adult Hispanic men (60 ± 8.2 years, median prostate-specific antigen density (PSA-D) 0.15 ng/mL2) with PCa who underwent prebiopsy 3T MRI followed by targeted MRI–ultrasound fusion and systematic biopsy. Two observers performed 2D segmentation of lesions in T2WI/ADC images. We classified csPCa (GS ≥ 7) vs. non-csPCa (GS = 6). Univariate statistical tests were performed for different parameters, including prostate volume (PV), PSA-D, PI-RADS, and radiomic features. Multivariate models were built using the automatic feature selection algorithm Recursive Feature Elimination (RFE) and different classifiers. A stratified split separated the train/test (80%) and validation (20%) sets. Results: Radiomic features derived from T2WI/ADC are associated with GS in patients with PCa. The best model found was multivariate, including image (T2WI/ADC) and clinical (PV and PSA-D) information. The validation area under the curve (AUC) was 0.80 for differentiating csPCa from non-csPCa, exhibiting better performance than PI-RADS (AUC: 0.71) and PSA-D (AUC: 0.78). Conclusion: Our multivariate ML model outperforms PI-RADS v2.1 and established clinical indicators like PSA-D in classifying csPCa accurately. This underscores MRI-derived radiomics’ (T2WI/ADC) potential as a robust biomarker for assessing PCa aggressiveness in Hispanic patients.},
+DOI = {10.3390/diagnostics13172779}
+}
 ```
 
 ---
@@ -59,4 +55,3 @@ url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 ##### Related material
 
 + [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
