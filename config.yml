@@ -19,7 +19,7 @@ menu:
 
 params:
     description: "I am Odette Rios-Ibacache, a PhD student in Medical Physics"
-    author: Moritz-Maria von Igelfeld
+    author: Odette Rios-Ibacache
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -33,7 +33,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["CV","Publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
