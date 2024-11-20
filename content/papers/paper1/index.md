@@ -8,7 +8,7 @@ cover:
     alt: "Some Uses For Olive Oil"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://www.mdpi.com/2075-4418/13/17/2779"
     Text: "Mdpi Diagnostics"
 
 ---
