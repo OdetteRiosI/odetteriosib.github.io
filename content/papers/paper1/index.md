@@ -4,8 +4,8 @@ date: 28 August 2023
 tags: ["Prostate cancer","Radiomics","bpMRI","Machine learning"]
 author: ["Ignacio Dominguez†", "Odette Rios-Ibacache†", "Paola Caprile", "Jose Gonzales","Ignacio F. San Francisco","Cecilia Besa"]
 cover:
-    image: "Picture6.png"
-    alt: "Some Uses For Olive Oil"
+    image: "paper1.png"
+    alt: ""
     relative: false
 editPost:
     URL: "https://www.mdpi.com/2075-4418/13/17/2779"
