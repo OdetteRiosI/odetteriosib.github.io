@@ -2,7 +2,7 @@
 title: "MRI-Based Surrogate Imaging Markers of Aggressiveness in Prostate Cancer: Development of a Machine Learning Model Based on Radiomic Features" 
 date: 28 August 2023
 tags: ["Prostate cancer","Radiomics","bpMRI","Machine learning"]
-author: ["Ignacio Dominguez†", "Odette Rios-Ibacache†", "Paola Caprile", "Jose Gonzales","Ignacio F. San Francisco","Cecilia Besa"]
+author: ["(† Co-first authorship) Ignacio Dominguez†", "Odette Rios-Ibacache†", "Paola Caprile", "Jose Gonzales","Ignacio F. San Francisco","Cecilia Besa"]
 cover:
     image: "paper1.png"
     alt: ""
