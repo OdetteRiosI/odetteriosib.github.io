@@ -13,10 +13,10 @@ menu:
         - name: About me
           url: About me/
         - name: CV
-          url: CV/
+          url: CV/CV_Odette_Rios_Ibacache_Updated.pdf
           weight: 5 
         - name: Papers
-          url: Papers/
+          url: papers/
           weight: 2
 
 params:
@@ -53,9 +53,9 @@ params:
             - name: About me
               url: About me/
             - name: CV
-              url: CV/
+              url: CV/CV_Odette_Rios_Ibacache_Updated.pdf
             - name: Papers
-              url: Papers/    
+              url: papers/    
     socialIcons:
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
