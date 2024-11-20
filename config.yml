@@ -47,7 +47,7 @@ params:
           enabled: true
           title: Odette Rios-Ibacache
           subtitle: "Hi! I am a PhD student in Medical Physics at McGill University since September 2024. My research focuses on software development, radiation oncology informatics, and applications of Artificial Intelligence tools for Radiotherapy outcomes prediction and diagnosis. Currently, I work under the supervision of Prof. John Kildea, in his ROKS team."
-          imageUrl: "picture.jpeg"
+          imageUrl: "Picture9.jpg"
           imageWidth: 180
           imageHeight: 180
           buttons:
