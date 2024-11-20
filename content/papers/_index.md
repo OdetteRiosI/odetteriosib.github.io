@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "Preprints and articles by Odette Rios-Ibacache."
+description: "Preprints, journal articles, oral talks, and posters by Odette Rios-Ibacache."
 ---
