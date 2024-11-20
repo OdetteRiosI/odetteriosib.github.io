@@ -22,7 +22,6 @@ menu:
 params:
     description: "I am Odette Rios-Ibacache, a PhD student in Medical Physics"
     author: Odette Rios-Ibacache
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -48,8 +47,8 @@ params:
           title: Odette Rios-Ibacache
           subtitle: "Hi! I am a PhD student in Medical Physics at McGill University since September 2024. My research focuses on software development, radiation oncology informatics, and applications of Artificial Intelligence tools for Radiotherapy outcomes prediction and diagnosis. Currently, I work under the supervision of Prof. John Kildea, in his ROKS team."
           imageUrl: "Picture.jpg"
-          imageWidth: 180
-          imageHeight: 180
+          imageWidth: 200
+          imageHeight: 200
           buttons:
             - name: About me
               url: About me/
@@ -57,20 +56,17 @@ params:
               url: CV/
             - name: Publications
               url: Publications/    
-       
     socialIcons:
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
         - name: Email
-          URL: "odette.riosibacache@mail.mcgill.ca"
+          URL: odette.riosibacache@mail.mcgill.ca
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=wSukTTIAAAAJ&hl=en
         - name: LinkedIn
           url: https://www.linkedin.com/in/odette-rios-ibacache-bb5947215/
         - name: ORCID
           url: https://orcid.org/0009-0003-9254-5592 
-
-
     assets:
         disableScrollBarStyle: true
     cover:
