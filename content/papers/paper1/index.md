@@ -51,4 +51,4 @@ DOI = {10.3390/diagnostics13172779}
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
++ [PizzaSeminar presentation slides at Pontificia Universidad Catolica de Chile, Faculty of Physics](PizzaSeminar.pdf)
