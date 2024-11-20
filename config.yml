@@ -10,6 +10,8 @@ taxonomies:
 
 menu:
     main:
+        - name: About me
+          url: About me/
         - name: CV
           url: CV/
           weight: 5 
@@ -33,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["CV","Publications"]
+    MainSections: ["About me","CV","Publications"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -49,6 +51,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: About me
+              url: About me/
             - name: CV
               url: CV/
             - name: Publications
