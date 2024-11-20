@@ -15,8 +15,8 @@ menu:
         - name: CV
           url: CV/
           weight: 5 
-        - name: Publications
-          url: Publications/
+        - name: Papers
+          url: papers/
           weight: 2
 
 params:
