@@ -60,7 +60,7 @@ params:
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
         - name: Email
-          URL: mailto:odette.riosibacache@mail.mcgill.ca
+          URL: <a href="mailto:odette.riosibacache@mail.mcgill.ca"></a>
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=wSukTTIAAAAJ&hl=en
         - name: LinkedIn
