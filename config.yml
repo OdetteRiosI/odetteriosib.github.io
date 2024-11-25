@@ -51,7 +51,7 @@ params:
           imageHeight: 200
           buttons:
             - name: About me
-              url: About me/
+              url: aboutme/
             - name: CV
               url: CV_Odette_Rios_Ibacache_Updated.pdf
             - name: Papers
