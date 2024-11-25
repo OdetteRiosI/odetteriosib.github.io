@@ -1,6 +1,6 @@
 baseURL: "https://odetteriosi.github.io/"
 title: Odette Rios-Ibacache
-theme: PaperMod
+theme: barks
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
