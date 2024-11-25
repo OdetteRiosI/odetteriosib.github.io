@@ -22,7 +22,7 @@ menu:
 params:
     description: "I am Odette Rios-Ibacache, a PhD student in Medical Physics"
     author: Odette Rios-Ibacache
-    DateFormat: "January 2006"
+    DateFormat: "November 2024"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -45,7 +45,7 @@ params:
     profileMode:
           enabled: true
           title: Odette Rios-Ibacache
-          subtitle: <h1 style="font-size:2vw"><p>&#128512; Hi! I am a PhD student in Medical Physics at  <a href="https://www.mcgill.ca" target="_blank"> <font color="blue">McGill University</font></a>  since September 2024. My research focuses on software development, radiation oncology informatics, and applications of Artificial Intelligence tools for Radiotherapy outcomes prediction and diagnosis. Currently, I work under the supervision of Prof. John Kildea, at the <a href="https://kildealab.com/" target="_blank"> <font color="blue">kildealab</font></a>, Radiation Oncology Knowledge Sharing (ROKS) team.<p></h1>
+          subtitle: <h1 style="font-size:1.5vw"><p>&#128512; Hi! I am a PhD student in Medical Physics at  <a href="https://www.mcgill.ca" target="_blank"> <font color="blue">McGill University</font></a>  since September 2024. My research focuses on software development, radiation oncology informatics, and applications of Artificial Intelligence tools for Radiotherapy outcomes prediction and diagnosis. Currently, I work under the supervision of Prof. John Kildea, at the <a href="https://kildealab.com/" target="_blank"> <font color="blue">kildealab</font></a>, Radiation Oncology Knowledge Sharing (ROKS) team.<p></h1>
           imageUrl: "Picture.jpg"
           imageWidth: 200
           imageHeight: 200
