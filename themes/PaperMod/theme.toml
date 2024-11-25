@@ -51,7 +51,7 @@ min_version = "0.112.4"
   repo = "https://github.com/nanxiaobei/hugo-paper/"
 
 [params.colors]
-    theme_color = "#333333"
+    theme_color = "#b7a4bf"
     background_color = "#fcfbf9"
     text_color = "#333333"
     link_color = "#60c17d"
