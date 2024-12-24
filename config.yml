@@ -10,8 +10,8 @@ taxonomies:
 
 menu:
     main:
-        - name: About me
-          url: archive/
+       # - name: About me
+        #  url: archive/
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
           weight: 5 
