@@ -11,7 +11,7 @@ taxonomies:
 menu:
     main:
         - name: About me
-          url: books/
+          url: archive/
           weight: 1
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
@@ -52,7 +52,7 @@ params:
           imageHeight: 200
           buttons:
             - name: About me
-              url: books/#archive/
+              url: archive/
             - name: CV
               url: CV_Odette_Rios_Ibacache_Updated.pdf
             - name: Papers
