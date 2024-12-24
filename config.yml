@@ -12,7 +12,6 @@ menu:
     main:
         - name: About me
           url: archive/
-          #weight: 1
         - name: CV
           url: CV_Odette_Rios_Ibacache_Updated.pdf
           weight: 5 
